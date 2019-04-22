@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+<header adminlang="de-DE" creationdate="20190410T123619Z" srclang="de-DE"/>
+<body>
+<tu srclang="de-DE">
+      <tuv xml:lang="de-DE">
+        <seg>Das ist ein Beispielsatz.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>C'est une phrase d'exemple.</seg>
+      </tuv>
+	  <tuv xml:lang="en-GB">
+        <seg>This is an example sentence.</seg>
+      </tuv>
+    </tu>
+<tu srclang="de-DE">
+      <tuv xml:lang="de-DE">
+        <seg>Hier geht es um Technik.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il s'agit de technologie.</seg>
+      </tuv>
+	  <tuv xml:lang="en-GB">
+        <seg>This is about technology.</seg>
+      </tuv>
+    </tu>
+<tu srclang="de-DE">
+      <tuv xml:lang="de-DE">
+        <seg>Hier wird ein bestimmter Term verwendet.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un terme spécifique est utilisé ici.</seg>
+      </tuv>
+	  <tuv xml:lang="en-GB">
+        <seg>A specific term is used here.</seg>
+      </tuv>
+    </tu>
+	</body>
+</tmx>
+
+
